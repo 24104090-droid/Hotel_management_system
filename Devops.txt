@@ -1,0 +1,3 @@
+No conflicts with base branch
+merging can be performed
+add a comment
